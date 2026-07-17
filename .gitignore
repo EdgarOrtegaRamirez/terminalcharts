@@ -1,0 +1,18 @@
+# TerminalCharts
+
+# Dependencies
+vendor/
+
+# Build artifacts
+./terminalcharts
+*.exe
+
+# Test data fixtures (kept for reference)
+# testdata/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
